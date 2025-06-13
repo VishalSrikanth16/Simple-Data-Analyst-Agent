@@ -13,3 +13,10 @@ A Streamlit-based AI agent that can analyze uploaded files (CSV, Excel, PDF, DOC
 
 ```bash
 pip install -r requirements.txt
+
+## 🛠 Terminal
+
+Open your terminal, navigate to the project folder and type.
+```
+streamlit run app.py
+```
