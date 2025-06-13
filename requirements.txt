@@ -1,0 +1,12 @@
+together
+pandas
+python-docx
+openpyxl
+pdf2image
+PyMuPDF
+pytesseract
+matplotlib
+seaborn
+filetype
+streamlit
+easyocr
